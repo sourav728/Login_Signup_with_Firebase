@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "975276072689",
+    "firebase_url": "https://fir-ba0c1.firebaseio.com",
+    "project_id": "fir-ba0c1",
+    "storage_bucket": "fir-ba0c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975276072689:android:ddf0cbf63c0da40c",
+        "android_client_info": {
+          "package_name": "com.example.tvd.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975276072689-fplk9g56ki1ng53gpdc1i94dc5rs5u0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAthu8DRcDnbXUU5VzP6VRory4rbV-BVZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
